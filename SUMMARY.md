@@ -8,4 +8,4 @@
 - [实验五、串联信道容量曲线](lab05.md)
 - [实验六、Huffman 编码](lab06.md)
 - [实验七、Hamming 编码](lab07.md)
-- [实验八、Hamming 编码--增加](lab07.md)
+- [实验八、Hamming 编码--增加](lab08.md)
