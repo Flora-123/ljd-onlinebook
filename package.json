@@ -1,0 +1,22 @@
+{
+  "name": "online-book",
+  "version": "1.0.0",
+  "description": "信息科学基础实验手册",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flora-123/ljd-onlinebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flora-123/ljd-onlinebook/issues"
+  },
+  "homepage": "https://github.com/Flora-123/ljd-onlinebook#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
